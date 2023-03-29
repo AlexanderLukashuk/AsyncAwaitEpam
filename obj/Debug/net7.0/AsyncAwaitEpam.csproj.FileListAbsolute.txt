@@ -1,0 +1,15 @@
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/bin/Debug/net7.0/AsyncAwaitEpam
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/bin/Debug/net7.0/AsyncAwaitEpam.deps.json
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/bin/Debug/net7.0/AsyncAwaitEpam.runtimeconfig.json
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/bin/Debug/net7.0/AsyncAwaitEpam.dll
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/bin/Debug/net7.0/AsyncAwaitEpam.pdb
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/AsyncAwaitEpam.csproj.AssemblyReference.cache
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/AsyncAwaitEpam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/AsyncAwaitEpam.AssemblyInfoInputs.cache
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/AsyncAwaitEpam.AssemblyInfo.cs
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/AsyncAwaitEpam.csproj.CoreCompileInputs.cache
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/AsyncAwaitEpam.dll
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/refint/AsyncAwaitEpam.dll
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/AsyncAwaitEpam.pdb
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/AsyncAwaitEpam.genruntimeconfig.cache
+/Users/aleksandrlukasuk/Projects/AsyncAwaitEpam/AsyncAwaitEpam/obj/Debug/net7.0/ref/AsyncAwaitEpam.dll
